@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome PHP Storm"/>
+    <HelloWorld msg="Welcome PHP"/>
     <HelloWorldTest msg="Test branch PHP Storm"/>
   </div>
 </template>
